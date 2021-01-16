@@ -82,7 +82,7 @@ mcp=MCP3008(CLK, MISO, MOSI, CS) # Initialization of Analog-Digital converter
 MQ2_1=MQ2(mcp, 0, start_time, max_size_arr) # Initialization of two air sensors
 MQ2_2=MQ2(mcp, 2, start_time, max_size_arr)
 
-grp1=Group("Living room 1", [DHT11_1, MQ2_1]) # Grouping sensors for easy managment
+grp1=Group("Living room 1", [DHT11_1, MQ2_1]) # Grouping sensors for easy management
 grp2=Group("Living room 2", [DHT11_2, MQ2_2])
 grp3=Group("Storage", [DHT11_3])
 groups=[grp1, grp2, grp3]

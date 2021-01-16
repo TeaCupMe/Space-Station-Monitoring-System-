@@ -21,11 +21,6 @@ except ImportError:
             print("    - "+i+"\n")
         print("Try download or reinstall them and again after")
 
-class Plotter():
-    def __init__(self):
-        pass
-    def draw_graph(self, file):
-        pass
 
 class Plotter3:
     def __init__(self):

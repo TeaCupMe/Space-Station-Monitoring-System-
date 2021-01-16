@@ -133,34 +133,3 @@ class Plotter3:
         self.cx.set_ylim(-10, 100)
         
         pass
-
-
-##TODO Create a universal class, that creates up to 9 plots
-# class Interactive_Plotter:
-#     def __init__(self, rooms):
-#         pass
-#         rooms_count=len(rooms)
-#         self.rooms=rooms
-#         self.size_x=1
-#         self.size_y=1
-#         if rooms_count==2:
-#             self.size_x=2
-#             self.size_y=1
-#         elif rooms_count==3:
-#             self.size_x=3
-#             self.size_y=1
-#         elif rooms_count==4:
-#             self.size_x=2
-#             self.size_y=2
-#         elif 6>=rooms_count>4:
-#             self.size_x=3
-#             self.size_y=2
-#         else:
-#             self.size_y=3
-#             self.size_x=3
-
-#         for room_index in range(len(rooms)):
-#             eval("self."+str(rooms[room_index].name)+"=plt.subplot("+str(size_y)+", "+str(size_x)+", "+str(room_index+1))
-#             eval("self."+str(rooms[room_index].name)+".title("+str(rooms[room_index].name)+")")
-#             for sensor_index in range(len(rooms[room_index])):
-#                 pass
