@@ -38,6 +38,9 @@ class Alert_System:
         self.buzzer_pwm.start(0)
         for pin in self.alert_pins:
             GPIO.setup(pin, GPIO.OUT)
+        GPIO.output(self.alert_pins[4], 1)
+        GPIO.output(self.alert_pins[5], 1)
+        GPIO.output(self.alert_pins[6], 1)
     def submit_frame(self, data):
         if "Living room 1" in list(data.keys()) and not ((self.lt < data["Living room 1"]["temperature"] < self.ht) and (self.lh < data["Living room 1"]["humidity"] < self.hh)):
             GPIO.output(self.alert_pins[0], 1)

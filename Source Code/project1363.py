@@ -17,10 +17,10 @@ except ImportError:
     from .CrTools.CrFiles import  Writer # Unique class for logging and data saving
     from .CrTools.CrOutput import Plotter3, LCD3 # Unique classes for showing data on screens
 
-except PackagesNotInstalledError: #If some packages are missing
+except PackagesNotInstalledError: # If some packages are missing
     sys.exit(1)
 
-except BaseException: #unexpexted error
+except BaseException: # Unexpexted error
     print("Error!!!")
     sys.exit(1)
 
@@ -58,9 +58,12 @@ LCD_DB7=7
 #    Pins that simple periferial devices are connected to         #
 buzzer_pin=5 # Buzzer pin
 button_pin=6 # Button pin
-led1=16 # Red ped pin 1
-led2=20 # Red ped pin 2
-led3=21 # Red ped pin 3
+led1=16 # Red led pin 1
+led2=20 # Red led pin 2
+led3=21 # Red led pin 3
+led4=13 # Green led pin 1 
+led5=19 # Green led pin 2
+led6=26 # Green led pin 3
 
 
 #                     System variables                            #
@@ -70,7 +73,7 @@ operation_number=1 # Operation number
 
 
 #####                devices' Initialization                  #####
-alert_sys=Alert_System(buzzer_pin, [led1,  led2, led3], button_pin) # Initialization of Alert System
+alert_sys=Alert_System(buzzer_pin, [led1,  led2, led3, led4, led5, led6], button_pin) # Initialization of Alert System
 lcd=LCD3(LCD_RS, LCD_E, LCD_DB4, LCD_DB5, LCD_DB6, LCD_DB7) # Initialization of LCD
 DHT11_1=DHT(DHT11_1, 11, start_time, max_size_arr) # Initialization of three DHT11
 DHT11_2=DHT(DHT11_2, 11, start_time, max_size_arr)
