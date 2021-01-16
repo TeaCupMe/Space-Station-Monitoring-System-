@@ -1,0 +1,446 @@
+<2020-12-20 22:34:27.400269>: Logwriter started
+<2020-12-20 22:34:27.400922>: Inizialization...
+<2020-12-20 22:34:28.001533>: Inizialization complete
+<2020-12-20 22:34:59.953378>: 10 measurments successfully passed and writen.
+<2020-12-20 22:35:27.863006>: 20 measurments successfully passed and writen.
+<2020-12-20 22:35:53.237256>: 30 measurments successfully passed and writen.
+<2020-12-20 22:36:28.834071>: 40 measurments successfully passed and writen.
+<2020-12-20 22:37:24.948103>: Logwriter started
+<2020-12-20 22:37:24.948535>: Inizialization...
+<2020-12-20 22:37:25.546527>: Inizialization complete
+<2020-12-20 22:37:58.037545>: Logwriter started
+<2020-12-20 22:37:58.037952>: Inizialization...
+<2020-12-20 22:37:58.648129>: Inizialization complete
+<2020-12-20 22:43:39.958082>: Logwriter started
+<2020-12-20 22:43:39.959106>: Inizialization...
+<2020-12-20 22:43:59.251886>: Logwriter started
+<2020-12-20 22:43:59.252300>: Inizialization...
+<2020-12-20 22:43:59.867281>: Inizialization complete
+<2020-12-20 22:52:47.583525>: Logwriter started
+<2020-12-20 22:52:47.583990>: Inizialization...
+<2020-12-20 22:53:10.773791>: Logwriter started
+<2020-12-20 22:53:11.158567>: Inizialization...
+<2020-12-20 22:53:31.548820>: Logwriter started
+<2020-12-20 22:53:31.549250>: Inizialization...
+<2020-12-20 22:53:32.244193>: Inizialization complete
+<2020-12-20 22:54:04.955650>: 10 measurments successfully passed and writen.
+<2020-12-20 22:55:23.065755>: Logwriter started
+<2020-12-20 22:55:23.066177>: Inizialization...
+<2020-12-20 22:55:54.123136>: Logwriter started
+<2020-12-20 22:55:54.123549>: Inizialization...
+<2020-12-20 22:56:23.263484>: Logwriter started
+<2020-12-20 22:56:24.145155>: Inizialization...
+<2020-12-20 23:00:01.642743>: Logwriter started
+<2020-12-20 23:00:01.643706>: Inizialization...
+<2020-12-20 23:00:02.286128>: Inizialization complete
+<2020-12-20 23:00:39.188409>: Logwriter started
+<2020-12-20 23:00:39.190254>: Inizialization...
+<2020-12-20 23:00:39.841516>: Inizialization complete
+<2020-12-20 23:01:28.174682>: 10 measurments successfully passed and writen.
+<2020-12-20 23:02:24.943323>: 20 measurments successfully passed and writen.
+<2020-12-20 23:02:53.895140>: 30 measurments successfully passed and writen.
+<2020-12-20 23:03:38.038316>: 40 measurments successfully passed and writen.
+<2020-12-20 23:04:19.626023>: 50 measurments successfully passed and writen.
+<2020-12-20 23:04:51.027098>: 60 measurments successfully passed and writen.
+<2020-12-20 23:05:32.513436>: 70 measurments successfully passed and writen.
+<2020-12-20 23:06:16.573249>: 80 measurments successfully passed and writen.
+<2020-12-20 23:09:13.541794>: Logwriter started
+<2020-12-20 23:09:13.543436>: Inizialization...
+<2020-12-20 23:09:14.211232>: Inizialization complete
+<2020-12-20 23:15:10.473149>: Logwriter started
+<2020-12-20 23:15:10.473583>: Inizialization...
+<2020-12-20 23:15:11.105673>: Inizialization complete
+<2020-12-20 23:19:12.539780>: Logwriter started
+<2020-12-20 23:19:12.540201>: Inizialization...
+<2020-12-20 23:19:13.179831>: Inizialization complete
+<2020-12-20 23:19:43.684397>: 10 measurments successfully passed and writen.
+<2020-12-20 23:20:12.412479>: 20 measurments successfully passed and writen.
+<2020-12-20 23:20:43.839173>: 30 measurments successfully passed and writen.
+<2020-12-20 23:21:35.841432>: Logwriter started
+<2020-12-20 23:21:35.842113>: Inizialization...
+<2020-12-20 23:21:36.478432>: Inizialization complete
+<2020-12-20 23:22:15.762334>: 10 measurments successfully passed and writen.
+<2020-12-20 23:24:13.904206>: Logwriter started
+<2020-12-20 23:24:13.904632>: Inizialization...
+<2020-12-20 23:24:14.534765>: Inizialization complete
+<2020-12-20 23:24:43.040246>: Logwriter started
+<2020-12-20 23:24:43.040664>: Inizialization...
+<2020-12-20 23:24:43.666505>: Inizialization complete
+<2020-12-20 23:25:17.747198>: 10 measurments successfully passed and writen.
+<2020-12-20 23:25:48.162796>: 20 measurments successfully passed and writen.
+<2020-12-20 23:27:34.286669>: Logwriter started
+<2020-12-20 23:27:34.287095>: Inizialization...
+<2020-12-20 23:27:34.912669>: Inizialization complete
+<2020-12-20 23:28:07.593051>: 10 measurments successfully passed and writen.
+<2020-12-20 23:28:51.642043>: 20 measurments successfully passed and writen.
+<2020-12-20 23:29:25.588144>: 30 measurments successfully passed and writen.
+<2020-12-20 23:30:04.497615>: 40 measurments successfully passed and writen.
+<2020-12-20 23:30:45.946793>: 50 measurments successfully passed and writen.
+<2020-12-20 23:31:22.402422>: 60 measurments successfully passed and writen.
+<2020-12-20 23:31:58.985914>: 70 measurments successfully passed and writen.
+<2020-12-20 23:32:22.805096>: 80 measurments successfully passed and writen.
+<2020-12-20 23:34:48.839581>: Logwriter started
+<2020-12-20 23:34:48.840009>: Inizialization...
+<2020-12-20 23:34:49.466231>: Inizialization complete
+<2020-12-20 23:35:26.027801>: 10 measurments successfully passed and writen.
+<2020-12-20 23:35:56.424795>: 20 measurments successfully passed and writen.
+<2020-12-20 23:36:21.763807>: 30 measurments successfully passed and writen.
+<2020-12-20 23:36:57.296995>: 40 measurments successfully passed and writen.
+<2020-12-20 23:37:46.615634>: 50 measurments successfully passed and writen.
+<2020-12-20 23:38:28.192620>: 60 measurments successfully passed and writen.
+<2020-12-22 11:26:12.991567>: Logwriter started
+<2020-12-22 11:26:12.992322>: Inizialization...
+<2020-12-22 11:27:40.539445>: Logwriter started
+<2020-12-22 11:27:41.925711>: Inizialization...
+<2020-12-22 11:28:06.130412>: Logwriter started
+<2020-12-22 11:28:06.130839>: Inizialization...
+<2020-12-22 11:28:52.095675>: Logwriter started
+<2020-12-22 11:28:52.096073>: Inizialization...
+<2020-12-22 11:29:31.137549>: Logwriter started
+<2020-12-22 11:29:31.138266>: Inizialization...
+<2020-12-22 11:30:15.236647>: Logwriter started
+<2020-12-22 11:30:15.237052>: Inizialization...
+<2020-12-22 11:32:04.268498>: Logwriter started
+<2020-12-22 11:32:04.268900>: Inizialization...
+<2020-12-22 11:32:48.380538>: Logwriter started
+<2020-12-22 11:32:48.380942>: Inizialization...
+<2020-12-22 11:32:49.031529>: Inizialization complete
+<2020-12-22 11:33:44.445315>: Logwriter started
+<2020-12-22 11:33:44.445722>: Inizialization...
+<2020-12-22 11:33:45.076876>: Inizialization complete
+<2020-12-22 11:38:34.729021>: Logwriter started
+<2020-12-22 11:38:34.729544>: Inizialization...
+<2020-12-22 11:38:35.394523>: Inizialization complete
+<2020-12-22 11:39:00.862617>: Logwriter started
+<2020-12-22 11:39:00.863003>: Inizialization...
+<2020-12-22 11:39:01.495615>: Inizialization complete
+<2020-12-22 11:57:34.738084>: Logwriter started
+<2020-12-22 11:57:34.739533>: Inizialization...
+<2020-12-22 11:57:35.409658>: Inizialization complete
+<2020-12-22 11:58:25.288377>: Logwriter started
+<2020-12-22 11:58:25.288771>: Inizialization...
+<2020-12-22 11:58:25.933587>: Inizialization complete
+<2020-12-22 11:59:12.853646>: 10 measurments successfully passed and writen.
+<2020-12-22 12:02:13.858916>: 20 measurments successfully passed and writen.
+<2020-12-22 12:04:17.035241>: Logwriter started
+<2020-12-22 12:04:17.036602>: Inizialization...
+<2020-12-22 12:04:17.689440>: Inizialization complete
+<2020-12-22 12:05:01.904716>: 10 measurments successfully passed and writen.
+<2020-12-22 12:05:37.340456>: 20 measurments successfully passed and writen.
+<2020-12-22 12:06:17.975224>: 30 measurments successfully passed and writen.
+<2020-12-22 12:07:03.562635>: 40 measurments successfully passed and writen.
+<2020-12-22 12:07:36.487878>: 50 measurments successfully passed and writen.
+<2020-12-22 12:08:14.521726>: 60 measurments successfully passed and writen.
+<2020-12-22 12:08:57.548000>: 70 measurments successfully passed and writen.
+<2020-12-22 12:09:25.439659>: 80 measurments successfully passed and writen.
+<2020-12-22 12:10:13.515259>: 90 measurments successfully passed and writen.
+<2020-12-22 12:12:44.858700>: Logwriter started
+<2020-12-22 12:12:44.860381>: Inizialization...
+<2020-12-22 12:20:02.760295>: Logwriter started
+<2020-12-22 12:20:02.760706>: Inizialization...
+<2020-12-22 12:20:39.824098>: Logwriter started
+<2020-12-22 12:20:39.824510>: Inizialization...
+<2020-12-22 12:21:27.687167>: Logwriter started
+<2020-12-22 12:21:27.687571>: Inizialization...
+<2020-12-22 12:23:27.863304>: Logwriter started
+<2020-12-22 12:23:27.865534>: Inizialization...
+<2020-12-22 12:23:30.772446>: Inizialization complete
+<2020-12-22 12:23:57.614753>: Keyboard interrupt
+<2020-12-22 12:24:29.588496>: Logwriter started
+<2020-12-22 12:24:29.589213>: Inizialization...
+<2020-12-22 12:24:32.455164>: Inizialization complete
+<2020-12-22 12:24:52.341622>: Keyboard interrupt
+<2020-12-22 12:38:51.888363>: Logwriter started
+<2020-12-22 12:38:51.888772>: Inizialization...
+<2020-12-22 12:39:43.851234>: Logwriter started
+<2020-12-22 12:39:43.851640>: Inizialization...
+<2020-12-22 12:41:57.076665>: Logwriter started
+<2020-12-22 12:41:57.077340>: Inizialization...
+<2020-12-22 12:43:27.548231>: Logwriter started
+<2020-12-22 12:43:27.548640>: Inizialization...
+<2020-12-22 12:44:11.655201>: Logwriter started
+<2020-12-22 12:44:11.655799>: Inizialization...
+<2020-12-22 12:44:34.064801>: Logwriter started
+<2020-12-22 12:44:34.065199>: Inizialization...
+<2020-12-22 12:45:16.550373>: Logwriter started
+<2020-12-22 12:45:16.550788>: Inizialization...
+<2020-12-22 12:45:19.392262>: Inizialization complete
+<2020-12-22 12:46:42.070087>: Logwriter started
+<2020-12-22 12:46:42.070506>: Inizialization...
+<2020-12-22 12:46:44.880195>: Inizialization complete
+<2020-12-22 12:47:18.232704>: Logwriter started
+<2020-12-22 12:47:18.233086>: Inizialization...
+<2020-12-22 12:47:21.043295>: Inizialization complete
+<2020-12-22 12:48:05.344028>: 10 measurments successfully passed and writen.
+<2020-12-22 12:50:25.411720>: Logwriter started
+<2020-12-22 12:50:25.412205>: Inizialization...
+<2020-12-22 12:50:28.217155>: Inizialization complete
+<2020-12-22 12:51:05.106133>: 10 measurments successfully passed and writen.
+<2020-12-22 12:51:36.386483>: 20 measurments successfully passed and writen.
+<2020-12-22 12:52:12.061598>: 30 measurments successfully passed and writen.
+<2020-12-22 12:52:39.989306>: 40 measurments successfully passed and writen.
+<2020-12-22 12:53:08.097868>: 50 measurments successfully passed and writen.
+<2020-12-22 12:53:33.656964>: 60 measurments successfully passed and writen.
+<2020-12-22 12:54:04.239401>: 70 measurments successfully passed and writen.
+<2020-12-22 12:54:32.203229>: 80 measurments successfully passed and writen.
+<2020-12-22 12:55:00.358258>: 90 measurments successfully passed and writen.
+<2020-12-22 12:55:25.813265>: 100 measurments successfully passed and writen.
+<2020-12-22 12:55:53.809277>: 110 measurments successfully passed and writen.
+<2020-12-22 12:56:37.140945>: 120 measurments successfully passed and writen.
+<2020-12-22 12:58:42.542859>: Logwriter started
+<2020-12-22 12:58:42.543268>: Inizialization...
+<2020-12-22 12:58:45.396948>: Inizialization complete
+<2020-12-22 12:59:22.329355>: 10 measurments successfully passed and writen.
+<2020-12-22 13:01:07.365760>: Logwriter started
+<2020-12-22 13:01:07.366189>: Inizialization...
+<2020-12-22 13:01:21.276413>: Logwriter started
+<2020-12-22 13:01:22.568096>: Inizialization...
+<2020-12-22 13:01:25.500970>: Inizialization complete
+<2020-12-22 13:02:02.859013>: 10 measurments successfully passed and writen.
+<2020-12-22 13:02:30.921649>: 20 measurments successfully passed and writen.
+<2020-12-22 13:03:04.281762>: 30 measurments successfully passed and writen.
+<2020-12-22 13:03:39.940393>: 40 measurments successfully passed and writen.
+<2020-12-22 13:04:21.591058>: Keyboard interrupt
+<2020-12-22 14:12:26.955750>: Logwriter started
+<2020-12-22 14:12:26.956155>: Inizialization...
+<2020-12-22 14:12:29.774131>: Inizialization complete
+<2020-12-22 14:13:04.172958>: 10 measurments successfully passed and writen.
+<2020-12-22 14:13:26.326624>: 20 measurments successfully passed and writen.
+<2020-12-22 14:14:22.332236>: 30 measurments successfully passed and writen.
+<2020-12-22 14:15:01.791107>: 40 measurments successfully passed and writen.
+<2020-12-22 14:15:35.037401>: 50 measurments successfully passed and writen.
+<2020-12-22 14:16:05.839226>: 60 measurments successfully passed and writen.
+<2020-12-22 14:16:49.280087>: 70 measurments successfully passed and writen.
+<2020-12-22 14:17:47.833950>: 80 measurments successfully passed and writen.
+<2020-12-22 14:18:31.272124>: 90 measurments successfully passed and writen.
+<2020-12-22 14:19:22.316312>: 100 measurments successfully passed and writen.
+<2020-12-22 14:19:55.744520>: 110 measurments successfully passed and writen.
+<2020-12-22 14:20:18.326420>: Keyboard interrupt
+<2020-12-22 14:24:22.898199>: Logwriter started
+<2020-12-22 14:24:22.898628>: Inizialization...
+<2020-12-22 14:24:25.740550>: Inizialization complete
+<2020-12-22 14:25:01.916847>: Logwriter started
+<2020-12-22 14:25:01.917297>: Inizialization...
+<2020-12-22 14:25:04.763820>: Inizialization complete
+<2020-12-22 14:25:15.032571>: Keyboard interrupt
+<2020-12-22 14:25:25.976056>: Logwriter started
+<2020-12-22 14:25:25.976457>: Inizialization...
+<2020-12-22 14:25:28.802113>: Inizialization complete
+<2020-12-22 14:26:08.373851>: 10 measurments successfully passed and writen.
+<2020-12-22 14:26:34.026816>: 20 measurments successfully passed and writen.
+<2020-12-22 14:26:53.680547>: Keyboard interrupt
+<2020-12-22 14:32:07.395540>: Logwriter started
+<2020-12-22 14:32:07.395950>: Inizialization...
+<2020-12-22 14:32:10.204120>: Inizialization complete
+<2020-12-22 14:33:12.723812>: 10 measurments successfully passed and writen.
+<2020-12-22 14:33:33.691103>: Logwriter started
+<2020-12-22 14:33:33.691501>: Inizialization...
+<2020-12-22 14:33:36.525202>: Inizialization complete
+<2020-12-22 14:34:51.341891>: 10 measurments successfully passed and writen.
+<2020-12-22 14:35:27.299645>: 20 measurments successfully passed and writen.
+<2020-12-22 14:36:20.959118>: 30 measurments successfully passed and writen.
+<2020-12-22 14:36:56.721561>: 40 measurments successfully passed and writen.
+<2020-12-22 14:37:26.438795>: 50 measurments successfully passed and writen.
+<2020-12-22 14:38:09.737583>: 60 measurments successfully passed and writen.
+<2020-12-22 14:38:42.406398>: 70 measurments successfully passed and writen.
+<2020-12-22 14:39:22.021253>: 80 measurments successfully passed and writen.
+<2020-12-22 14:39:52.729304>: 90 measurments successfully passed and writen.
+<2020-12-22 14:40:31.100423>: 100 measurments successfully passed and writen.
+<2020-12-22 14:41:06.851342>: 110 measurments successfully passed and writen.
+<2020-12-22 14:42:08.489194>: Keyboard interrupt
+<2020-12-22 16:13:40.317707>: Logwriter started
+<2020-12-22 16:13:40.319054>: Inizialization...
+<2020-12-22 16:13:43.165889>: Inizialization complete
+<2020-12-22 16:13:57.265139>: Logwriter started
+<2020-12-22 16:13:57.265537>: Inizialization...
+<2020-12-22 16:14:00.100327>: Inizialization complete
+<2020-12-22 16:14:02.902747>: Keyboard interrupt
+<2020-12-22 16:14:24.087132>: Logwriter started
+<2020-12-22 16:14:24.087534>: Inizialization...
+<2020-12-22 16:14:26.936136>: Inizialization complete
+<2020-12-22 16:15:01.099758>: 10 measurments successfully passed and writen.
+<2020-12-22 16:15:34.476208>: 20 measurments successfully passed and writen.
+<2020-12-22 16:15:57.751971>: 30 measurments successfully passed and writen.
+<2020-12-22 16:16:46.278161>: 40 measurments successfully passed and writen.
+<2020-12-22 16:17:19.803662>: 50 measurments successfully passed and writen.
+<2020-12-22 16:17:53.310263>: 60 measurments successfully passed and writen.
+<2020-12-22 16:18:29.173352>: 70 measurments successfully passed and writen.
+<2020-12-22 16:19:15.081280>: 80 measurments successfully passed and writen.
+<2020-12-22 16:19:50.819970>: 90 measurments successfully passed and writen.
+<2020-12-22 16:20:19.016245>: 100 measurments successfully passed and writen.
+<2020-12-22 16:20:57.386380>: 110 measurments successfully passed and writen.
+<2020-12-22 16:21:45.873201>: 120 measurments successfully passed and writen.
+<2020-12-22 16:22:37.005165>: 130 measurments successfully passed and writen.
+<2020-12-22 16:23:25.453690>: 140 measurments successfully passed and writen.
+<2020-12-22 16:24:03.786764>: 150 measurments successfully passed and writen.
+<2020-12-22 16:24:41.965832>: 160 measurments successfully passed and writen.
+<2020-12-22 16:25:35.498429>: 170 measurments successfully passed and writen.
+<2020-12-22 16:26:16.389614>: 180 measurments successfully passed and writen.
+<2020-12-22 16:26:47.188956>: 190 measurments successfully passed and writen.
+<2020-12-22 16:27:20.510251>: 200 measurments successfully passed and writen.
+<2020-12-22 16:27:58.870608>: 210 measurments successfully passed and writen.
+<2020-12-22 16:28:42.491904>: 220 measurments successfully passed and writen.
+<2020-12-22 16:30:58.041508>: Logwriter started
+<2020-12-22 16:30:58.042069>: Inizialization...
+<2020-12-22 16:31:00.833103>: Inizialization complete
+<2020-12-22 16:31:12.984899>: Logwriter started
+<2020-12-22 16:31:12.985287>: Inizialization...
+<2020-12-22 16:31:15.824743>: Inizialization complete
+<2020-12-22 16:32:02.864268>: 10 measurments successfully passed and writen.
+<2020-12-22 16:32:35.926499>: 20 measurments successfully passed and writen.
+<2020-12-22 16:33:04.112399>: 30 measurments successfully passed and writen.
+<2020-12-22 16:33:40.582226>: 40 measurments successfully passed and writen.
+<2020-12-22 16:38:15.965846>: Logwriter started
+<2020-12-22 16:38:15.966263>: Inizialization...
+<2020-12-22 16:38:18.762169>: Inizialization complete
+<2020-12-22 16:39:15.941785>: 10 measurments successfully passed and writen.
+<2020-12-22 16:40:02.102671>: 20 measurments successfully passed and writen.
+<2020-12-22 16:40:30.337970>: 30 measurments successfully passed and writen.
+<2020-12-22 16:41:03.630552>: 40 measurments successfully passed and writen.
+<2020-12-22 16:41:31.770971>: 50 measurments successfully passed and writen.
+<2020-12-22 16:42:22.793229>: 60 measurments successfully passed and writen.
+<2020-12-22 16:43:16.245340>: 70 measurments successfully passed and writen.
+<2020-12-22 16:44:12.496392>: 80 measurments successfully passed and writen.
+<2020-12-22 17:08:17.016189>: Logwriter started
+<2020-12-22 17:08:17.016829>: Inizialization...
+<2020-12-22 17:08:19.868993>: Inizialization complete
+<2020-12-22 17:10:00.744319>: Logwriter started
+<2020-12-22 17:10:00.744955>: Inizialization...
+<2020-12-22 17:10:04.094908>: Inizialization complete
+<2020-12-22 17:10:12.731016>: Keyboard interrupt
+<2020-12-22 17:11:14.183603>: Logwriter started
+<2020-12-22 17:11:14.184048>: Inizialization...
+<2020-12-22 17:11:17.539250>: Inizialization complete
+<2020-12-22 17:11:52.937485>: Keyboard interrupt
+<2020-12-22 17:11:57.318619>: Logwriter started
+<2020-12-22 17:11:57.319558>: Inizialization...
+<2020-12-22 17:12:00.686023>: Inizialization complete
+<2020-12-22 17:12:06.842404>: Keyboard interrupt
+<2020-12-22 17:12:21.177988>: Logwriter started
+<2020-12-22 17:12:21.178770>: Inizialization...
+<2020-12-22 17:12:24.543788>: Inizialization complete
+<2020-12-22 17:12:56.254956>: 10 measurments successfully passed and writen.
+<2020-12-22 17:13:42.186053>: 20 measurments successfully passed and writen.
+<2020-12-22 17:14:07.954273>: 30 measurments successfully passed and writen.
+<2020-12-22 17:14:43.703772>: 40 measurments successfully passed and writen.
+<2020-12-22 17:15:24.346244>: 50 measurments successfully passed and writen.
+<2020-12-22 17:16:05.091434>: 60 measurments successfully passed and writen.
+<2020-12-22 17:16:33.253792>: 70 measurments successfully passed and writen.
+<2020-12-22 17:17:31.895898>: 80 measurments successfully passed and writen.
+<2020-12-22 17:18:05.163285>: 90 measurments successfully passed and writen.
+<2020-12-22 17:18:46.016633>: 100 measurments successfully passed and writen.
+<2020-12-22 17:19:32.019834>: 110 measurments successfully passed and writen.
+<2020-12-22 17:20:07.778846>: 120 measurments successfully passed and writen.
+<2020-12-22 17:20:33.481560>: 130 measurments successfully passed and writen.
+<2020-12-22 17:21:12.023565>: 140 measurments successfully passed and writen.
+<2020-12-22 17:21:58.083034>: 150 measurments successfully passed and writen.
+<2020-12-22 17:22:44.227761>: 160 measurments successfully passed and writen.
+<2020-12-22 17:23:24.139593>: Keyboard interrupt
+<2020-12-22 17:31:03.278857>: Logwriter started
+<2020-12-22 17:31:03.279274>: Inizialization...
+<2020-12-22 17:31:06.606609>: Inizialization complete
+<2020-12-22 17:31:45.832881>: 10 measurments successfully passed and writen.
+<2020-12-22 17:32:26.753947>: 20 measurments successfully passed and writen.
+<2020-12-22 17:33:05.183626>: 30 measurments successfully passed and writen.
+<2020-12-22 17:33:42.607788>: Keyboard interrupt
+<2020-12-22 17:35:01.849015>: Logwriter started
+<2020-12-22 17:35:01.849424>: Inizialization...
+<2020-12-22 17:35:05.257755>: Inizialization complete
+<2020-12-22 17:35:47.043496>: 10 measurments successfully passed and writen.
+<2020-12-22 17:36:32.939758>: Keyboard interrupt
+<2020-12-22 17:36:40.297494>: Logwriter started
+<2020-12-22 17:36:40.297871>: Inizialization...
+<2020-12-22 17:36:43.640917>: Inizialization complete
+<2020-12-22 17:36:59.665516>: Keyboard interrupt
+<2020-12-22 17:37:03.444852>: Logwriter started
+<2020-12-22 17:37:03.445237>: Inizialization...
+<2020-12-22 17:37:06.802475>: Inizialization complete
+<2020-12-22 17:38:01.632923>: Keyboard interrupt
+<2020-12-22 17:38:05.794707>: Logwriter started
+<2020-12-22 17:38:05.795103>: Inizialization...
+<2020-12-22 17:38:09.146836>: Inizialization complete
+<2020-12-22 17:39:00.897740>: 10 measurments successfully passed and writen.
+<2020-12-22 17:39:34.351021>: 20 measurments successfully passed and writen.
+<2020-12-22 17:39:45.577831>: Keyboard interrupt
+<2020-12-22 17:40:18.267583>: Logwriter started
+<2020-12-22 17:40:18.267999>: Inizialization...
+<2020-12-22 17:40:21.647950>: Inizialization complete
+<2020-12-22 17:41:15.949754>: 10 measurments successfully passed and writen.
+<2020-12-22 17:42:04.370697>: 20 measurments successfully passed and writen.
+<2020-12-22 17:42:55.245644>: 30 measurments successfully passed and writen.
+<2020-12-22 17:43:28.613529>: 40 measurments successfully passed and writen.
+<2020-12-22 17:44:14.486299>: 50 measurments successfully passed and writen.
+<2020-12-22 17:44:41.430086>: Keyboard interrupt
+<2020-12-22 17:45:09.495960>: Logwriter started
+<2020-12-22 17:45:09.496409>: Inizialization...
+<2020-12-22 17:45:27.589270>: Logwriter started
+<2020-12-22 17:45:27.589934>: Inizialization...
+<2020-12-22 17:45:30.930856>: Inizialization complete
+<2020-12-22 17:46:03.573468>: Keyboard interrupt
+<2020-12-22 17:46:23.155359>: Logwriter started
+<2020-12-22 17:46:23.155749>: Inizialization...
+<2020-12-22 17:46:26.535271>: Inizialization complete
+<2020-12-22 17:47:15.752297>: 10 measurments successfully passed and writen.
+<2020-12-22 17:48:06.678133>: 20 measurments successfully passed and writen.
+<2020-12-22 17:49:17.861093>: 30 measurments successfully passed and writen.
+<2020-12-22 17:49:44.683791>: Keyboard interrupt
+<2020-12-22 18:21:22.448620>: Logwriter started
+<2020-12-22 18:21:22.449067>: Inizialization...
+<2020-12-22 18:21:25.818782>: Inizialization complete
+<2020-12-22 18:21:57.310613>: 10 measurments successfully passed and writen.
+<2020-12-22 18:22:32.996483>: 20 measurments successfully passed and writen.
+<2020-12-22 18:23:18.631788>: 30 measurments successfully passed and writen.
+<2020-12-22 18:23:44.027567>: 40 measurments successfully passed and writen.
+<2020-12-22 18:24:22.092100>: 50 measurments successfully passed and writen.
+<2020-12-22 18:25:02.802608>: 60 measurments successfully passed and writen.
+                                                                             <2020-12-22 20:57:20.785882>: Logwriter started
+<2020-12-22 20:57:20.787407>: Inizialization...
+<2020-12-22 20:57:24.172697>: Inizialization complete
+<2020-12-22 20:58:14.716177>: 10 measurments successfully passed and writen.
+<2020-12-22 20:58:53.796887>: 20 measurments successfully passed and writen.
+<2020-12-22 20:59:25.171563>: 30 measurments successfully passed and writen.
+<2020-12-24 21:06:52.371595>: Logwriter started
+<2020-12-24 21:06:52.373141>: Inizialization...
+<2020-12-24 21:06:55.735711>: Inizialization complete
+<2020-12-24 21:07:31.110463>: 10 measurments successfully passed and writen.
+<2020-12-24 21:08:00.110118>: 20 measurments successfully passed and writen.
+<2020-12-24 21:08:29.066160>: 30 measurments successfully passed and writen.
+<2020-12-24 21:09:05.977419>: 40 measurments successfully passed and writen.
+<2020-12-24 21:09:39.516378>: Keyboard interrupt
+<2020-12-24 21:09:57.669976>: Logwriter started
+<2020-12-24 21:09:57.670451>: Inizialization...
+<2020-12-24 21:10:01.057423>: Inizialization complete
+<2020-12-24 21:11:02.685007>: 10 measurments successfully passed and writen.
+<2020-12-24 21:11:15.534089>: Keyboard interrupt
+<2020-12-24 21:11:34.141248>: Logwriter started
+<2020-12-24 21:11:34.141657>: Inizialization...
+<2020-12-24 21:11:37.471277>: Inizialization complete
+<2020-12-24 21:12:10.659624>: 10 measurments successfully passed and writen.
+<2020-12-24 21:13:18.468808>: 20 measurments successfully passed and writen.
+<2020-12-24 21:14:01.262021>: 30 measurments successfully passed and writen.
+<2020-12-24 21:14:33.901960>: 40 measurments successfully passed and writen.
+<2020-12-24 21:15:24.422597>: 50 measurments successfully passed and writen.
+<2020-12-24 21:16:31.999137>: 60 measurments successfully passed and writen.
+<2020-12-24 21:17:04.866279>: 70 measurments successfully passed and writen.
+<2020-12-24 21:18:07.334962>: 80 measurments successfully passed and writen.
+<2020-12-24 21:18:55.021545>: 90 measurments successfully passed and writen.
+<2020-12-24 21:19:55.482596>: 100 measurments successfully passed and writen.
+<2020-12-24 21:20:35.810635>: 110 measurments successfully passed and writen.
+<2020-12-24 21:21:33.877981>: 120 measurments successfully passed and writen.
+<2020-12-24 21:22:09.152228>: 130 measurments successfully passed and writen.
+<2020-12-24 21:22:59.762347>: 140 measurments successfully passed and writen.
+<2020-12-24 21:23:37.692968>: 150 measurments successfully passed and writen.
+<2020-12-24 21:24:20.605925>: 160 measurments successfully passed and writen.
+<2020-12-24 21:25:18.531549>: 170 measurments successfully passed and writen.
+<2020-12-24 21:26:16.702704>: 180 measurments successfully passed and writen.
+<2020-12-24 21:27:09.642346>: 190 measurments successfully passed and writen.
+<2020-12-24 21:27:47.592426>: 200 measurments successfully passed and writen.
+<2020-12-24 21:28:35.694168>: 210 measurments successfully passed and writen.
+<2020-12-24 21:29:28.670993>: 220 measurments successfully passed and writen.
+<2020-12-24 21:30:11.491604>: 230 measurments successfully passed and writen.
+<2020-12-24 21:30:54.529030>: 240 measurments successfully passed and writen.
+<2020-12-24 21:31:34.990499>: 250 measurments successfully passed and writen.
+<2020-12-24 21:32:38.151625>: 260 measurments successfully passed and writen.
+<2020-12-24 21:33:18.569385>: 270 measurments successfully passed and writen.
+<2020-12-24 21:34:09.163362>: 280 measurments successfully passed and writen.
+<2020-12-24 21:34:51.259276>: Keyboard interrupt
